@@ -1,0 +1,19 @@
+D:\Lab works\Обробка мультимедіа\graphic_redactor\graphic_redactor\bin\Debug\graphic_redactor.exe.config
+D:\Lab works\Обробка мультимедіа\graphic_redactor\graphic_redactor\bin\Debug\graphic_redactor.exe
+D:\Lab works\Обробка мультимедіа\graphic_redactor\graphic_redactor\bin\Debug\graphic_redactor.pdb
+D:\Lab works\Обробка мультимедіа\graphic_redactor\graphic_redactor\obj\Debug\graphic_redactor.csprojResolveAssemblyReference.cache
+D:\Lab works\Обробка мультимедіа\graphic_redactor\graphic_redactor\obj\Debug\graphic_redactor.Form1.resources
+D:\Lab works\Обробка мультимедіа\graphic_redactor\graphic_redactor\obj\Debug\graphic_redactor.Properties.Resources.resources
+D:\Lab works\Обробка мультимедіа\graphic_redactor\graphic_redactor\obj\Debug\graphic_redactor.csproj.GenerateResource.Cache
+D:\Lab works\Обробка мультимедіа\graphic_redactor\graphic_redactor\obj\Debug\graphic_redactor.exe
+D:\Lab works\Обробка мультимедіа\graphic_redactor\graphic_redactor\obj\Debug\graphic_redactor.pdb
+D:\Lab works\Graphic & Multimedia\graphic_redactor\graphic_redactor\bin\Debug\graphic_redactor.exe.config
+D:\Lab works\Graphic & Multimedia\graphic_redactor\graphic_redactor\obj\Debug\graphic_redactor.exe
+D:\Lab works\Graphic & Multimedia\graphic_redactor\graphic_redactor\obj\Debug\graphic_redactor.pdb
+D:\Lab works\Graphic & Multimedia\graphic_redactor\graphic_redactor\bin\Debug\graphic_redactor.exe
+D:\Lab works\Graphic & Multimedia\graphic_redactor\graphic_redactor\bin\Debug\graphic_redactor.pdb
+D:\Lab works\Graphic & Multimedia\graphic_redactor\graphic_redactor\obj\Debug\graphic_redactor.Form1.resources
+D:\Lab works\Graphic & Multimedia\graphic_redactor\graphic_redactor\obj\Debug\graphic_redactor.Properties.Resources.resources
+D:\Lab works\Graphic & Multimedia\graphic_redactor\graphic_redactor\obj\Debug\graphic_redactor.csproj.GenerateResource.Cache
+D:\Lab works\Graphic & Multimedia\graphic_redactor\graphic_redactor\obj\Debug\graphic_redactor.csprojAssemblyReference.cache
+D:\Lab works\Graphic & Multimedia\graphic_redactor\graphic_redactor\obj\Debug\graphic_redactor.csproj.CoreCompileInputs.cache
